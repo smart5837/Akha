@@ -1,0 +1,210 @@
+#head{
+    color: green;
+    margin-left: 50px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+}
+li {
+    display: inline;
+    margin-left: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+.btn{
+    background-color: green;
+    color: white;
+    margin-left: 8px;
+    border-radius: 12px;
+}
+#nav{
+    display: flex;
+}
+#top-image{
+        background-image: linear-gradient(rgba(19, 19, 19, 0.8), rgba(19, 19, 19, 0.8)), url(images/akha.jpg);
+        height: 300px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.text{
+    color: white;
+    margin-left:  30px;
+    padding-top: 50px; 
+}
+.h1{ 
+    font-size: 25px;
+    padding-bottom: -60px;
+
+}
+#radio{
+    margin-left: 400px;
+}
+
+img{
+    width: 450px;
+    height: 450px;
+    margin-left: 40px;
+    padding-top: 40px;
+}
+.vid{
+    padding-left: 600px;
+    margin-top: -500px;
+}
+h1{
+    font-size: 50px;
+    color: green;
+    margin-top: 80px;
+}
+.span{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 80px;
+}
+#rd{
+    color: green;
+    background: rgba(255, 255, 255, 0.144);
+    border: none;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+.card1{
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    padding-bottom: 50px;
+}
+.flex p{
+    margin-left: 80px;
+    padding-right: 10px;
+
+}
+.flex h3{
+    margin-left: 80px;
+    padding-right: 10px;
+    color: orange;
+}
+.flex{
+    margin-top: 20em;
+    margin-left: 2em;
+    padding-left: -3em;
+}
+.bd{
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    border: 1px grey solid;
+    padding-left: -3em; 
+    border-bottom: 3px solid grey;
+    border-top: 10px;
+    border-bottom-color: grey;
+    width: 448px;
+    margin-top: -20px;
+
+}
+.no{
+        display: grid;
+        grid-template-columns: auto auto auto;
+         grid-column-gap: auto;
+}
+.number1{
+border: 1px rgb(231, 229, 229) solid;
+border-top: 30px rgb(231, 229, 229) solid;
+border-bottom: 30px rgb(231, 229, 229) solid;
+}
+
+.number p{
+    margin-left: 200px;
+    margin-top: -30px;
+    font-size: 30px;
+    text-align: justify;
+    
+}
+.number h1{
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 50px;
+    text-align: justify;
+   }
+   .smart1{
+       display: grid;
+       grid-template-columns: auto auto;
+       grid-column-gap: auto;
+       background-color:green;
+
+   }
+   .vision h3{
+       text-align: justify;
+       color: white;
+       margin-left: 50px;
+       font-size: 30px;
+   }
+   .vision p{
+       margin-top: 5px;
+       font-size: 20px;
+       text-align: justify;
+       color: white;
+       margin-left: 50px;
+       
+   }
+   .mission h3{
+       margin-left: 50px;
+       text-align: justify;
+       color: white;
+       margin-top: 80px;
+       font-size: 30px;
+   }
+
+   .mission p{
+       margin-top: 5px;
+       font-size: 20px;
+       text-align: justify;
+       color: white;
+       margin-left: 50px;
+   }
+
+   .blank{
+       border-style: solid;
+       height: 190px;
+       width:200px;
+       margin-top: 80px;
+       margin-bottom:90px;
+       margin-left: 60px;
+       margin-right: 50px;
+       background-color: white;
+   }
+   .sub{
+       display: grid;
+   }
+   .sub1{
+       text-align: center;
+       padding: 60px;
+       color: green;
+       margin-top: 50px;
+   }
+   .subution2{
+       text-align: center;
+       margin-left: 35px;
+       margin-top:50px;
+        
+   }
+   .but_inp{
+    background-color: orange;
+    margin-right: 50px;
+
+}
+
+   .footer1{
+       text-align: center;
+       margin-top: 20px;
+       background-color: gray;
+       padding-top: 50px;
+       padding-bottom: 20px;
+
+   }
+   .foot p{
+       margin-top: -20px;
+   }
